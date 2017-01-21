@@ -25,3 +25,7 @@ docker-compose build;docker-compose up
 ```
 <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
 ```
+
+If there we're updates, check for dates of commits
+
+PR is welcome
