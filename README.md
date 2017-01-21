@@ -2,7 +2,8 @@
 whenever you want work behind borders of Internet
 
 ## NPM on the road 
-**warning** first you need sync it before use. It takes ~5h, depends on your network. Batteries not incl.
+* **warning** first you need sync it before use. It takes **~5h**, depends on your network. 
+* Batteries not incl. **[Docker is required](https://docs.docker.com/engine/installation/)**
 ```
 git clone https://github.com/yangwao/modserv;cd modserv
 docker-compose build;docker-compose up
@@ -16,13 +17,13 @@ docker-compose build;docker-compose up
 * Roboto Slab
 
 #### if you need replace i.e. this in your code 
-```
+```html 
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
 ```
 
 ## materialIcons/
 #### if you need replace i.e. this in your code 
-```
+```html
 <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
 ```
 
